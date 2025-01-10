@@ -1,16 +1,28 @@
-## Hi there 👋
+# Bem-vinda(o) ao meu GitHub! 👋
 
-<!--
-**karinne021/karinne021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+🎓 **Estudante de Ciência de Dados** | 💻 **Analista de Suporte ERP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apaixonada por explorar dados e transformá-los em insights valiosos. Atualmente, estou me especializando em **Python**, **SQL** e **Power BI**, com interesse crescente em **Análise Avançada** e **Engenharia de Dados**. Meu objetivo é contribuir para soluções estratégicas e impactantes no mundo dos dados.
+
+---
+
+## 🔧 Tecnologias e Ferramentas
+
+- **Linguagens**: Python, SQL
+- **Bibliotecas e Ferramentas**: pandas, NumPy, matplotlib, seaborn
+- **Bancos de Dados**: PostgreSQL, MySQL, Firebird, SQLServer
+- **Visualização de Dados**: Power BI
+- **Outras Ferramentas**: Git, VSCode
+
+---
+
+## 📫 Entre em Contato
+
+- **Email**: [karinne021@gmail.com](mailto:karinne021@gmail.com)
+- **LinkedIn**: [Karinne Azevedo](https://linkedin.com/in/karinne-azevedo)
+
+---
+
+Obrigada por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato. 😊
